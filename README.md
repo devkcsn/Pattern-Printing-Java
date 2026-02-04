@@ -1,5 +1,4 @@
 # Pattern-Printing-Java
-# Pattern-Printing-Java
 
 This repository contains Java programs for pattern printing to improve logic building and mastery over loops and conditional statements.
 
