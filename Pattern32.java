@@ -15,5 +15,6 @@ public class Pattern32 {
             }
             System.out.println(" ");
         }
+        sc.close();
     }
 }

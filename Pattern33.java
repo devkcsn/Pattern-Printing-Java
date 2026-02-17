@@ -21,5 +21,6 @@ public class Pattern33 {
             nums = nums + i;
             System.out.println();
         }
+        sc.close();
     }
 }

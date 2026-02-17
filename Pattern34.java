@@ -18,5 +18,6 @@ public class Pattern34 {
             }
             System.out.println(" ");
         }
+        sc.close();
     }
 }
