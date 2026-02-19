@@ -8,10 +8,10 @@ public class Pattern36 {
         int rows = sc.nextInt();
         System.out.println("Here is your desired pattern: ");
         for (int i = 1; i <= rows; i++) {
-            for (int j = 1; j <= rows-i; j++) {
+            for (int j = 1; j <= rows - i; j++) {
                 System.out.print("*");
             }
-            for(int k = 1; k<=i ; k++){
+            for (int k = 1; k <= i; k++) {
                 System.out.print(k);
             }
             System.out.println(" ");
