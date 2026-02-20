@@ -10,10 +10,10 @@ public class Pattern40{
 
         for(int i =1 ; i<=rows; i++){
             for(int j = i ; j<=rows ; j++){
-                System.out.print(j);
+                System.out.print(j + " ");
             }
             for(int k=1 ; k<i ; k++){
-                System.out.print(k);
+                System.out.print(k + " ");
             }
             System.out.println(" ");
         }
